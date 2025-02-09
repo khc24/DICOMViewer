@@ -1,6 +1,6 @@
 # DICOM Viewer (VTK 9.4 & GDCM 3.0)
 
-![Project Image](YOUR_IMAGE_PATH)
+![Project Image](https://github.com/khc24/DICOMViewer/tree/master/res/dicomviewer.png)) 
 
 ## 📌 프로젝트 개요
 본 프로젝트는 **VTK 9.4.0**과 **GDCM 3.0.24**을 활용하여 DICOM 데이터를 로드하고 3D 볼륨 렌더링을 수행하는 C++ 기반 뷰어입니다.  
@@ -20,11 +20,10 @@ Visual Studio 2022에서 개발되었으며, 의료 영상 데이터를 효율�
 ---
 
 ## ✨ 주요 기능
-- DICOM 파일(.dcm) 불러오기 및 3D 볼륨 렌더링
-- 슬라이서 기능: CT/MRI 단층 이미지 탐색
-- 기본적인 윈도우 레벨 조정 지원
-- 인터랙티브 카메라 조작 (회전, 확대, 이동)
-- 다중 뷰 모드 (Axial, Coronal, Sagittal)
+- 동일 그룹의 DICOM Volume 데이터 읽기 :사용자가 DICOM 트리에서 Volume을 더블 클릭하면 해당 Volume 데이터 로드
+- Axal, Coronal, Sagittal 방향 슬라이스 이미지 생성 : 해당 Volume의 각 방향별 슬라이스 이미지 생성
+- 스크롤바를 통한 슬라이스 탐색 : 사용자가 스크롤바를 움직이면 슬라이스 인덱스를 변경하며 탐색
+- 3D Volume Rendering : 사용자가 미리 정의된 Volume Rendering 모드를 선택하면 3차원 렌더링 변경
 
 ---
 
