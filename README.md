@@ -9,10 +9,10 @@ Visual Studio 2022에서 개발되었으며, 의료 영상 데이터를 효율�
 
 ---
 
-## 시연 영상
+## 🎥 시연 동영상
 [YOUTUBE](https://www.youtube.com/watch?v=CvdPoT4hSHE)
 
-## 🛠️ 사용 기술 및 라이브러리
+## 🛠️ 사용 기술 및 라이브러리 
 - **언어**: C++  
 - **라이브러리**:
   - [VTK 9.4.0](https://vtk.org/)
