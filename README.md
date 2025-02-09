@@ -1,6 +1,7 @@
 # DICOM Viewer (VTK 9.4 & GDCM 3.0)
 
-![Project Image](https://github.com/khc24/DICOMViewer/tree/master/res/dicomviewer.png)) 
+![Project Image](https://raw.githubusercontent.com/khc24/DICOMViewer/master/res/dicomviewer.png)
+
 
 ## 📌 프로젝트 개요
 본 프로젝트는 **VTK 9.4.0**과 **GDCM 3.0.24**을 활용하여 DICOM 데이터를 로드하고 3D 볼륨 렌더링을 수행하는 C++ 기반 뷰어입니다.  
