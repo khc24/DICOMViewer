@@ -17,6 +17,8 @@ Visual Studio 2022에서 개발되었으며, 의료 영상 데이터를 효율�
 - **라이브러리**:
   - [VTK 9.4.0](https://vtk.org/)
   - [GDCM 3.0.24](http://gdcm.sourceforge.net/)
+- **UI 프레임워크**:
+  - Microsoft Foundation Class (MFC)
 - **개발 환경**:
   - Visual Studio 2022
   - CMake
