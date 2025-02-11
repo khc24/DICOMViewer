@@ -22,7 +22,6 @@ Visual Studio 2022에서 개발되었으며, 의료 영상 데이터를 효율�
   - Microsoft Foundation Class (MFC)
 - **개발 환경**:
   - Visual Studio 2022
-  - CMake
 
 ---
 
